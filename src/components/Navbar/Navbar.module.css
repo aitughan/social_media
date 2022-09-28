@@ -1,0 +1,22 @@
+.nav{
+    grid-area:n;
+    background-color: burlywood;
+  }
+  /* .item a{
+      color:white;
+  }
+  .item a.activeLink{
+      color:gold
+  } */
+  .link {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+  }
+  
+  .active {
+    text-decoration: none;
+    color: gold;
+    font-size: 40px;
+  }
+  

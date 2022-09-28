@@ -1,0 +1,18 @@
+.musics{
+    color: yellow
+}
+.tabled{
+    border : 1px solid #dddddd;
+    text-align:left;
+    width: 50%
+}
+
+.tableh{
+    border : 1px solid #dddddd;
+    text-align:left;
+    width: 100% 
+}
+
+tr:nth-child(even){
+    background-color: #2fb1b6;
+}
