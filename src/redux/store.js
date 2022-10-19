@@ -27,6 +27,15 @@ let store = {
                 ],
             newMessageData: ""
         },
+        usersDataPage:{
+            usersData:[
+                {id:1, name: "Ronaldo"},
+                {id:2, name: "Bekzat"},
+                {id:3, name: "Ali"},
+                {id:4, name: "Messi"}
+                ]
+        },
+        
        
         sidebar :{}
     },
